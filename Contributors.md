@@ -21,7 +21,7 @@
 - [Jack Shanley](https://github.com/JackShanley)
 - [Midhun Krishna P](https://github.com/midhunpaini)
 - Andrew Usvat
-- asi
+- asii
 - Nathan Kandekore
 - Werberger Merton
 - Roheen Malu
